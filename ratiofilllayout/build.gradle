@@ -14,7 +14,7 @@ ext {
     LIB_VERSION = '1.0.0'
 
     bintrayRepo = 'maven'
-    bintrayName = 'android-ratiofilllayout'
+    bintrayName = 'android-ratio-fill-layout'
 
     publishedGroupId = 'com.github.bosphere.android-ratiofilllayout'
     libraryName = 'Android-RatioFillLayout'
@@ -45,8 +45,6 @@ android {
     defaultConfig {
         minSdkVersion 11
         targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
     }
 
     buildTypes {

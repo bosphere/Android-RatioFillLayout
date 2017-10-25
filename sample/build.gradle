@@ -29,4 +29,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile project(':ratiofilllayout')
+//    compile 'com.github.bosphere.android-ratiofilllayout:ratiofilllayout:1.0.0'
 }
